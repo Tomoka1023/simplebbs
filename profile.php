@@ -32,7 +32,7 @@ $stmt = $pdo->prepare("
 $stmt->execute([$user['id']]);
 $recent_posts = $stmt->fetchAll();
 ?>
-
+<div class="container">
 <h1>プロフィール</h1>
 
 <div class="profile-box">

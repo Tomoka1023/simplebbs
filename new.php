@@ -42,6 +42,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
+  <link rel="icon" href="favicon.png" type="image/png">
   <title>新しいスレッドを作成</title>
   <link rel="stylesheet" href="css/style.css">
 </head>

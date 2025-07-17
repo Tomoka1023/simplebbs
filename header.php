@@ -7,6 +7,7 @@ if (session_status() === PHP_SESSION_NONE) {
 <html lang="ja">
 <head>
   <meta charset="UTF-8">
+  <link rel="icon" href="favicon.png" type="image/png">
   <title>掲示板まさ坊(仮)</title>
   <link rel="stylesheet" href="css/style.css">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">

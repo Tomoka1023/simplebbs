@@ -27,6 +27,7 @@ $stmt = $pdo->query("SELECT * FROM threads ORDER BY created_at DESC");
 $threads = $stmt->fetchAll();
 ?>
 <div class="container">
+<link rel="icon" href="favicon.png" type="image/png">
   <h1>掲示板まさ坊(仮)へようこそ</h1>
   <?php if (isset($_SESSION['username'])): ?>
     <p>こんにちは、<?= htmlspecialchars($_SESSION['username']) ?> さん！</p>
