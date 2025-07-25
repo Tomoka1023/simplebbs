@@ -27,11 +27,11 @@ PHPとMySQLを使って作った、ログイン機能付きのシンプルな掲
 4. `database.sql` をphpMyAdmin等でインポートしてテーブル作成
 5. ブラウザで `index.php` を開いて動作確認
 
-## 📷 スクリーンショット（任意）
+## 📷 スクリーンショット
 
 <img width="1280" height="654" alt="Screenshot 0007-07-26 at 3 05 27 AM" src="https://github.com/user-attachments/assets/c628bbef-7cc9-47ce-83f4-4c215814e882" />
 
-## ✏️ 今後の追加予定（例）
+## ✏️ 今後の追加予定
 
 - 通知機能
 - いいね機能
